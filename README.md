@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Sirkirwar</h1>
-<h3 align="center">A passionate Entry-level Data Scientist inspired by data science.</h3>
+<h3 align="center">
+Thanks for visiting my GitHub profile.
+I am a passionate Computer Science graduate inspired by Data Science
+Experienced in developing predictive modeling and ability to use (data) statistics and deep learning for finding complex data patterns that drive meaningful impact on the (business) insights.
+Always tend to do projects on real-time or innovative researches across globe.
+With the handful knowledge of BI tools know the importance of having iterative, hypothesis-oriented approach to analysis.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🔭 I’m currently working on **DSML projects**
