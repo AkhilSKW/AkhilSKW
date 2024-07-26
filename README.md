@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Sirkirwar</h1>
-<h3 align="center">
-Thanks for visiting my GitHub profile.
-I am a passionate Computer Science graduate inspired by Data Science
+<h1 align="center">Hi 👋, I'm Akhilesh Sirkirwar.</h1>
+<h3 align="center">I am a passionate Computer Science graduate inspired by Data Science
 Experienced in developing predictive modeling and ability to use (data) statistics and deep learning for finding complex data patterns that drive meaningful impact on the (business) insights.
 Always tend to do projects on real-time or innovative researches across globe.
 With the handful knowledge of BI tools know the importance of having iterative, hypothesis-oriented approach to analysis.</h3>
